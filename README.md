@@ -1,6 +1,6 @@
 - Hi, I’m abdulrahim
 - I love Database management, cyber security, and programming
-- My aim is to become a database administrator with some cyber security skills
+- My aim is to become a Backend Developer with database administrator skills and some cyber security skills
 - I’m currently learning Java, Data Structure & algorithm, and Database
 - I’m looking to collaborate with everyone
 - I need help from anyone that is willing to help me achieve my dream of becoming a professional Database Administrator that can create and manage powerful database
