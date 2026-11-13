@@ -2,7 +2,7 @@
 
 I build web applications with a focus on **Java, Spring Boot, and React**.
 
-I'm interested in building practical products, solving real problems, and continuously improving my software engineering skills.
+I am interested in building practical products, solving real problems, and continuously improving my software engineering skills.
 
 ---
 
@@ -17,3 +17,9 @@ I'm interested in building practical products, solving real problems, and contin
 - Responsive user interfaces
 
 ---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
